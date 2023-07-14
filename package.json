@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "vite-plugin-rewrite-all": "^1.0.1"
+  }
+}
