@@ -1,4 +1,4 @@
-<h1 align="center">PDF MANNAGING Web App</h1>
+<h1 align="center">PDF MANAGING Web App</h1>
 <p align="center">
   Welcome to the Awesome PDF Web App Repository! This project is a web application built using React, React Tailwind CSS, DaisyUI themes, Node.js with Express, and MongoDB. It provides users with a platform to manage and share PDF files, along with features like commenting and user authentication.
 </p>
