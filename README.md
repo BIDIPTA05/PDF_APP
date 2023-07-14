@@ -1,8 +1,11 @@
-<h1 align="center">PDF MANNAGING Web App</h1>
+<img width="1440" alt="1" src="https://github.com/BIDIPTA05/PDF_APP/assets/76623158/2f265180-e13a-4163-8a3f-650a0ee9ee09"><h1 align="center">PDF MANNAGING Web App</h1>
 
 <p align="center">
   Welcome to the Awesome PDF Web App Repository! This project is a web application built using React, React Tailwind CSS, DaisyUI themes, Node.js with Express, and MongoDB. It provides users with a platform to manage and share PDF files, along with features like commenting and user authentication.
 </p>
+
+## Live demo
+![Screenshot]<img width="1440" alt="1" src="https://github.com/BIDIPTA05/PDF_APP/assets/76623158/ab7933f1-d55e-4e6a-9177-032fbb3e9845">
 
 
 
