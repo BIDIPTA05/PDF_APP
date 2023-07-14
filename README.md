@@ -78,8 +78,8 @@ The Awesome PDF Web App is designed to simplify PDF management and sharing. It p
 
 To run the Awesome PDF Web App locally, follow these steps:
 
-1. Clone the repository:
+To Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/awesome-pdf-web-app.git
-MAKE THE IMAGES MORE BEAUTIFUL
+
