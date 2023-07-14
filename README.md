@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="project-logo.png" alt="Awesome PDF Web App" width="200" height="200">
-</p>
 
 <h1 align="center">Awesome PDF Web App</h1>
 
